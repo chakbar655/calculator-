@@ -1,5 +1,5 @@
 # Advance Calculator
-advance calculator created in ICT Lab. This calculator has many features e.g add, subtract, multiply, divide, power, squareroot and manymore in future
+advance calculator created in ICT Lab. This calculator has many features e.g add, subtract, multiply, divide, power, squareroot and manymore in future.
 ##Features
 1. add
 2. subtract
